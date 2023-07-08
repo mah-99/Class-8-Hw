@@ -48,7 +48,7 @@ nav ul li a{
 /* nav css end */
 /* banner section css start */
 #banner{
-    background-image: linear-gradient(rgba(0,0,0,0.68), rgba(0,0,0,0.66)), url(../images/banner_bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.68), rgba(0,0,0,0.66)), url(./images/banner_bg.jpg);
     height: 728px;
     background-size: cover;
     background-position: center top;
